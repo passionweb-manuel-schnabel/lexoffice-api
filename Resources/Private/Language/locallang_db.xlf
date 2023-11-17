@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:lexoffice_api/Resources/Private/Language/locallang_db" date="2023-05-19T13:34:38Z" product-name="lexoffice_api">
+		<header/>
+		<body>
+			<trans-unit id="plugin_lexoffice_invoice.name" resname="plugin_lexoffice_invoice.name">
+				<source>Example invoice with Lexoffice</source>
+			</trans-unit>
+			<trans-unit id="plugin_lexoffice_invoice.description" resname="plugin_lexoffice_invoice.description">
+				<source>Adds an example invoice which uses the Lexoffice API </source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

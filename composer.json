@@ -1,0 +1,28 @@
+{
+    "name": "passionweb/lexoffice-api",
+    "license": "GPL-3.0",
+    "description": "Shows the integration of the Lexoffice API for invoice generation. (TYPO3 CMS)",
+    "type": "typo3-cms-extension",
+    "homepage": "https://www.passionweb.de",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Manuel Schnabel",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^11.5 | ^12.4",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Passionweb\\LexofficeApi\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "lexoffice_api"
+        }
+    }
+}

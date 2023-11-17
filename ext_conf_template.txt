@@ -1,0 +1,10 @@
+# cat=LexOffice; type=boolean; label=Activate Lexoffice
+lexofficeActive = false
+# cat=LexOffice; type=string; label=Lexoffice mode (dev/live)
+lexofficeMode = dev
+# cat=LexOffice; type=string; label=Lexoffice API url
+lexofficeApiUrl =
+# cat=LexOffice; type=string; label=Lexoffice Api key (test)
+lexofficeDevApiKey =
+# cat=LexOffice; type=string; label=Lexoffice Api key (live)
+lexofficeLiveApiKey =
